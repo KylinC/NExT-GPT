@@ -191,7 +191,7 @@ For more technical details, kindly refer to the [paper](https://arxiv.org/pdf/23
 ### 2. Environment Preparation  <a href='#all_catelogue'>[Back to Top]</a>
 Please first clone the repo and install the required environment, which can be done by running the following commands:
 ```
-conda env create -n nextgpt python=3.8
+conda create -n nextgpt python=3.8
 
 conda activate nextgpt
 
